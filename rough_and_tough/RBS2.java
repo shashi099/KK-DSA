@@ -1,4 +1,4 @@
-package arrays.KK;
+package arrays.KK.rough_and_tough;
 
 //https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 // leetcode81

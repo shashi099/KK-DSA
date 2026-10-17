@@ -1,4 +1,4 @@
-package arrays.KK;
+package arrays.KK.rough_and_tough;
 
 public class Koko_loves_to_eat_bananas {
     //Qs:- https://leetcode.com/problems/koko-eating-bananas/

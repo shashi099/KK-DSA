@@ -1,0 +1,23 @@
+1 Accept size n from user and create a n size array then take n inputs into the and finally
+      Print the sum & Mean of all elements.
+2- Find the greatest element and print its index too.
+      {2, 96, 69, 77, 145, 20} = Max element = 145 found at 4 index
+3- Find the second greatest element
+      {2, 96, 69, 77, 145, 20} = Second greatest element = 96
+4- Check if array is sorted in increasing order or not.
+       Ex 1 - { 1, 5, 8,  9, 10, 15 } - OP = "YES"
+       Ex 2 - { 1, 8, 6, 9, 10, 15 } - OP = "NO"
+5- Take n integer inputs from user and store them in an array.
+       Now, copy all the elements in an another array but in reverse order and print it.
+6- Array left Rotation by 1
+7- Array left rotation by K elements
+8- Array Reverse Without Using Extra space
+9- Linear Search an array - If element found print the index else -1
+10- Binary Search. If element found print the index else -1
+11- Move all the negative elements on left side and positive elements on right side with extra space in O(n).
+12- Move all the negative elements on left side and positive elements on right side without extra space in O(n).
+13- Bubble Sort.
+14- Strong number using methods
+15- Prime number using methods.
+16- Leetcode 1929 - Concatenation of array
+17- Leetcode 1920 - Build Array from Permutation

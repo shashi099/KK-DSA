@@ -1,4 +1,4 @@
-package arrays.KK;
+package arrays.KK.rough_and_tough;
 
 public class CellingOfNumber {
 

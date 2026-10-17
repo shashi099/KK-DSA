@@ -1,4 +1,4 @@
-package arrays.KK;
+package arrays.KK.rough_and_tough;
 
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 
